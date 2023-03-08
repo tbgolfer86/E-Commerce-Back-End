@@ -1,0 +1,53 @@
+# E-Commerce Back End
+  
+  ## Description
+  This is an e-commerce back end application that allows the user to add, remove, and update products and their categories in the database.
+
+---
+
+  ## Table of Contents  
+
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [License](#license)
+  - [How to Contribute](#contribute)
+  - [Tests](#tests)
+  - [Questions](#questions)
+
+---
+
+  ## Installation
+  This application uses the following node packages:<br><br>
+  [dotenv](https://www.npmjs.com/package/dotenv)<br>
+  [Express](https://www.npmjs.com/package/express)<br>
+  [mysql2](https://www.npmjs.com/package/mysql2)<br>
+  [Sequelize](https://www.npmjs.com/package/sequelize)
+
+---
+
+  ## Usage
+  This is a node application that is invoked in the command-line. The user must first seed the database using the command: "npm run seed" and then start the server by using the command "npm start". Once the server is running, the user can retrieve data from the database by using the API endpoints that are set up in the routes directory.<br><br>
+  [Walkthrough video that demonstrates its functionality]()<br><br>
+  This screenshot shows it running in the terminal:<br>
+  ![alt text](./)
+
+---
+
+  ## License
+  
+  
+---
+
+  ## Contributing
+  
+
+---
+
+  ## Tests 
+  
+
+---
+
+  ## Questions
+  If you have any questions about the project, open an issue at [tbgolfer86](https://www.github.com/tbgolfer86) or send an email to tbj86@outlook.com.
+
