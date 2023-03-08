@@ -26,7 +26,7 @@
 ---
 
   ## Usage
-  This is a node application that is invoked in the command-line. The user must first seed the database using the command: "npm run seed" and then start the server by using the command "npm start". Once the server is running, the user can retrieve data from the database by using the API endpoints that are set up in the routes directory.<br><br>
+  This is a node application that is invoked in the command-line. The user must first create the schema from the MySQL shell. Then the database must be seeded using the command: "npm run seed". Once the database is seeded the user can start the server by using the command: "npm start". Once the server is running, the user can retrieve data from the database by using the API endpoints that are set up in the routes directory.<br><br>
   [Walkthrough video that demonstrates its functionality]()<br><br>
   This screenshot shows it running in the terminal:<br>
   ![alt text](./)
