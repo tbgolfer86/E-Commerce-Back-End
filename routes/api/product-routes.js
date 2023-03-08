@@ -41,7 +41,7 @@ router.get('/:id', async (req, res) => {
     });
 
     if (!product) {
-      res.status(404).json({ message: 'No category found with this id!' });
+      res.status(404).json({ message: 'No product found with this id!' });
       return;
     }
 
