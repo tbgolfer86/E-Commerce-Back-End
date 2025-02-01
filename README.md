@@ -27,7 +27,7 @@
 
   ## Usage
   This is a node application that is invoked in the command-line. The user must first create the schema from the MySQL shell. Then the database must be seeded using the command: "npm run seed". Once the database is seeded the user can start the server by using the command: "npm start". Once the server is running, the user can retrieve data from the database by using the API endpoints that are set up in the routes directory.<br><br>
-  [Walkthrough video that demonstrates its functionality](https://drive.google.com/file/d/1_djH8XwT1gUmvlsSl1MrOrKzSZi8A-CO/view)<br><br>
+  [Walkthrough video that demonstrates its functionality](https://1drv.ms/v/c/7afd0312d9c87570/EXB1yNkSA_0ggHrRNwAAAAABwj-ft9TUFBI5UM2lkC9Elg?e=QPdfEj)<br><br>
   This screenshot shows route functionality in Insomnia:<br>
   ![alt text](./assets/images/Screenshot%202023-03-08%20at%203.43.48%20PM.png)
 
